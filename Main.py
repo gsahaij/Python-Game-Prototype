@@ -9,7 +9,6 @@ os.environ["SDL_VIDEO_WINDOW_POS"] = "100,50"
 # Colors
 """
 BLITZ
-Created by: Sahaij Gadhri, Ibrahim Khatib, Shan Ehsan
 ~ 3500 lines of code
 ~ using classes, functions, fileIo, and sprite collision
 """
